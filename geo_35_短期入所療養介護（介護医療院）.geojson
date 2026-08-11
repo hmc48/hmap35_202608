@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_35_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護医療院　さくら寮【短期入所療養介護（介護医療院）】山口県下関市長府才川2丁目21番2号", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=35B0100011-00&ServiceCd=551&Type=search", "url2": "https://www.kofuen.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 130.999375, 34.024726500000021 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人星の里会　岡病院介護医療院【短期入所療養介護（介護医療院）】小月本町2丁目15番20号", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=35B0100086-00&ServiceCd=551&Type=search", "url2": "https://www.oka-hospital.net/" }, "geometry": { "type": "Point", "coordinates": [ 131.0367149, 34.0706966 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院ケアホーム山口【短期入所療養介護（介護医療院）】山口県岩国市玖珂町11361番地", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=35B0800032-00&ServiceCd=551&Type=search", "url2": "http://www.yamaguchihp.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.059326199999987, 34.1028374 ] } },
+{ "type": "Feature", "properties": { "内容": "医療法人社団光仁会　市川医院　介護医療院【短期入所療養介護（介護医療院）】山口県光市中央3丁目2-26", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=35B1000020-00&ServiceCd=551&Type=search", "url2": "koujinkai-ichikawaiin.jimdo.com" }, "geometry": { "type": "Point", "coordinates": [ 131.9458821, 33.9590846 ] } },
+{ "type": "Feature", "properties": { "内容": "河村循環器神経内科介護医療院【短期入所療養介護（介護医療院）】三井６丁目１８番１号", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=35B1000012-00&ServiceCd=551&Type=search", "url2": "https://www.yayoi-km.jp/" }, "geometry": { "type": "Point", "coordinates": [ 131.9527778, 33.9881878 ] } }
+]
+}

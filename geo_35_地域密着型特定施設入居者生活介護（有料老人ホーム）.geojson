@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_35_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアホーム横山　陽だまりの家【地域密着型特定施設入居者生活介護（有料老人ホーム）】山口県岩国市横山３－８－１０", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3590800011-00&ServiceCd=361&Type=search", "url2": "https://hidamaarinoie-yokoyama.com" }, "geometry": { "type": "Point", "coordinates": [ 132.178783426983614, 34.17636449908909 ] } },
+{ "type": "Feature", "properties": { "内容": "有料老人ホーム　秀東館　美空【地域密着型特定施設入居者生活介護（有料老人ホーム）】岩国市周東町西長野265-1", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3590800136-00&ServiceCd=361&Type=search", "url2": "http://www.shutoukan.com" }, "geometry": { "type": "Point", "coordinates": [ 132.036536599999977, 34.0908199 ] } },
+{ "type": "Feature", "properties": { "内容": "徳山病院特定施設さくら【地域密着型特定施設入居者生活介護（有料老人ホーム）】山口県周南市南浦山町5番14号", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3591500453-00&ServiceCd=361&Type=search", "url2": "https://tokuyama-hp.jp/tokuyama-feature/sakura/" }, "geometry": { "type": "Point", "coordinates": [ 131.788327110450751, 34.069636581728091 ] } }
+]
+}

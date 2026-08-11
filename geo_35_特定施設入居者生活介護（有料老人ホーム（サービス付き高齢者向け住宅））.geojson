@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_35_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "清風オリオン【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山口県長門市三隅中２８６番地", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3571100316-00&ServiceCd=&Type=search", "url2": "http://www.seifuu.or.jp/orion" }, "geometry": { "type": "Point", "coordinates": [ 131.2590212, 34.3601114 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホームココフレ紫苑【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】山口県山陽小野田市新生3-3-27", "url": "https://www.kaigokensaku.mhlw.go.jp/35/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3571600836-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 131.178904200000034, 34.0015917 ] } }
+]
+}
